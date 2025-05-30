@@ -2,15 +2,6 @@
 
 Este repositório contém os testes automatizados para o projeto [AmiPet](https://github.com/AmiPet-For-Every-Whisker-Paw-and-Tail), uma aplicação que facilita a adoção responsável de animais conectando ONGs, tutores e adotantes.
 
-## 📁 Estrutura do Repositório
-
-AmiPet_Tests/
-
-├── frontend/ # Testes automatizados do app Android (Kotlin)
-
-├── backend/ # Testes automatizados do backend (Spring Boot)
-
-└── docs/ # Documentação de estratégia e estrutura de testes
 
 ## 🛠 Tecnologias e Ferramentas
 
